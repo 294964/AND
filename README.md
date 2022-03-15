@@ -12,4 +12,4 @@ Vi har valgt at lave en parkerings applikation, da den har mulighed for at indeh
 3. Jeg vil gerne kunne registrere og betale min parkering
 4. Jeg vil gerne kunne se timeprisen
 5. Jeg vil gerne kunne se en liste med min historik over parkeringer
-6. Jeg vil gerne finde information om udbyderen af appen
+6. Jeg vil gerne kunne finde information om udbyderen af appen
