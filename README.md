@@ -8,8 +8,8 @@ Vi har valgt at lave en parkerings applikation, da den har mulighed for at indeh
 
 **Prioriteret liste af user stories:**
 - [ ] 1. Jeg vil gerne kunne oprette mig som bruger
-2. Jeg vil gerne kunne se hvor der er parkeringsmuligheder i forhold til min lokation
-3. Jeg vil gerne kunne se timeprisen
-4. Jeg vil gerne kunne registrere og betale min parkering
-5. Jeg vil gerne kunne se en liste med min historik over parkeringer
-6. Jeg vil gerne kunne finde information om udbyderen af appen
+- [ ] 2. Jeg vil gerne kunne se hvor der er parkeringsmuligheder i forhold til min lokation
+- [ ] 3. Jeg vil gerne kunne se timeprisen
+- [ ] 4. Jeg vil gerne kunne registrere og betale min parkering
+- [ ] 5. Jeg vil gerne kunne se en liste med min historik over parkeringer
+- [ ] 6. Jeg vil gerne kunne finde information om udbyderen af appen
