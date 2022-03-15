@@ -12,4 +12,5 @@ Jeg vil gerne kunne se hvor der er parkeringsmuligheder i forhold til min lokati
 Jeg vil gerne kunne registrere og betale min parkering.
 Jeg vil gerne kunne se timeprisen.
 Jeg vil gerne kunne se en liste med min historik over parkeringer.
+Jeg vil gerne finde information om udbyderen af appen.
 
