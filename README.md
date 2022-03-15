@@ -1,4 +1,4 @@
-# ParkeringsApp
+# ParkeringsApp #
 
 **Kort beskrivelse af applikationen:**
 En parkerings applikation, hvor man kan oprette sig som bruger, finde parkeringsmuligheder på et kort ift. lokation, se timeprisen for parkeringsmuligheden, register sin parkering og betale for den. Derudover skal det være muligt for brugeren at se en historik over sine parkeringer og finde information om udbyderen.
